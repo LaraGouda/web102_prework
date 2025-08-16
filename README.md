@@ -26,6 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src="https://i.imgur.com/tCAJtY8.gif" alt="Video Walkthrough" />
+![Video Walkthrough](https://i.imgur.com/tCAJtY8.gif)
 
 I was not sure how to link this gif, Apologies if this is incorrect! I also had to compress the gif in order for this to work!
 <!-- Replace this with whatever GIF tool you used! -->
@@ -39,7 +40,7 @@ GIF created with Kap, had to compress it afterwards as well!
 
 Describe any challenges encountered while building the app.
     -Familiarizing myself with git and github!
-    -linking the video gif!
+    -linking the video gif! this did not work at all for me??
 
 ## License
 
