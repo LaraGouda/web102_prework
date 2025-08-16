@@ -27,6 +27,7 @@ Here's a walkthrough of implemented features:
 
 <img src="https://i.imgur.com/tCAJtY8.gif" alt="Video Walkthrough" />
 ![Video Walkthrough](https://i.imgur.com/tCAJtY8.gif)
+<img src="assets/videog.gif" alt="Video Walkthrough" />
 
 I was not sure how to link this gif, Apologies if this is incorrect! I also had to compress the gif in order for this to work!
 <!-- Replace this with whatever GIF tool you used! -->
