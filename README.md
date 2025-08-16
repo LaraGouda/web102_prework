@@ -25,9 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/jVFnI5b.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4ztvjy7"  ><a href="//imgur.com/a/4ztvjy7">WEB102VideoWalkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://i.imgur.com/jVFnI5b.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 I was not sure how to link this gif.
 <!-- Replace this with whatever GIF tool you used! -->
@@ -41,6 +39,7 @@ GIF created with Kap, had to compress it afterwards as well!
 
 Describe any challenges encountered while building the app.
     -Familiarizing myself with git and github!
+    -linking the video gif!
 
 ## License
 
