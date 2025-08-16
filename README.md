@@ -25,9 +25,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/jVFnI5b.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<video width="600" controls autoplay loop muted>
+  <source src="https://i.imgur.com/jVFnI5b.mp4" type="video/mp4">
+</video>
 
-I was not sure how to link this gif.
+I was not sure how to link this gif. apologies if this is incorrect!
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap, had to compress it afterwards as well!
 <!-- Recommended tools:
