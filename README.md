@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/web102videowalkthrough-4ztvjy7' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='https://i.imgur.com/jVFnI5b.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/4ztvjy7"  ><a href="//imgur.com/a/4ztvjy7">WEB102VideoWalkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
